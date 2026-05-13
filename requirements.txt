@@ -1,0 +1,11 @@
+opencv-python
+numpy
+mediapipe
+torch
+torchvision
+scikit-learn
+pyautogui
+pynput
+keyboard
+matplotlib
+tqdm
